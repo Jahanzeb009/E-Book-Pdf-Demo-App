@@ -4,7 +4,6 @@
 
 ## Features of this app I'll provide 
 
-
 1. Jump to a specific page
 2. Page scrolling vertically & horizontally
 3. Zoom in/out
@@ -13,4 +12,8 @@
 6. Admob ads integration
 7. E-book table of contents
 
-## [Contact me for further descussion or placing an order](mailto:jahanzebsupp@gmail.com)
+## Live app available in playstore
+> [playstore](https://play.google.com/store/apps/details?id=com.jahanzeb.dev.pdf)
+
+## Contact me for further descussion or placing an order
+jahanzebsupp@gmail.com
