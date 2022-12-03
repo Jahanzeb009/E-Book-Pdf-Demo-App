@@ -13,4 +13,4 @@
 6. Admob ads integration
 7. E-book table of contents
 
-## [Contact me for further descussion or placing an order](mailto:lunde@adobe.com?subject=[GitHub]%20Source%20Han%20Sans)
+## [Contact me for further descussion or placing an order](mailto:jahanzebsupp@gmail.com)
