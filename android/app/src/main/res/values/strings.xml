@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">E-book | PDF Demo App</string>
+
+    <string name="splashScreenImage">This is a Splash Screen Image</string>
+</resources>
